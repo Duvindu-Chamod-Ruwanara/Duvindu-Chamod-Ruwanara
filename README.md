@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Duvindu Chamod Ruwanara
+- 👋 Hi, I’m Duvindu Chamod Ruwanara
 - 👀 I’m interested in developing softwares
 - 🌱 I’m currently learning modern technologies
 - 📫 reach me on Gmail - duvinduhdcr@gmail.com
